@@ -24,4 +24,4 @@ See the UI Kit in Figma
 
 [See the UI Kit in Figma](https://www.figma.com/file/P1iVebSPuC1AWBybYfXUTdP3/WordCamp-Lodz-UI-kit?node-id=0%3A1)
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "WordCamp Łódź Logo"
+[logo]: https://raw.githubusercontent.com/wordcamplodz/wordcamplodz-graphics/master/github-banner.png "WordCamp Łódź Logo"
