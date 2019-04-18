@@ -1,8 +1,7 @@
-[logo]
+![alt text](https://raw.githubusercontent.com/wordcamplodz/wordcamplodz-graphics/master/github-banner.png)
 
 # WordCamp Łódź UI Kit
 This is a set of graphics prepared for WordCamp Łódź.
-See the UI Kit in Figma
 
 ### You will find here:
 * logo
@@ -23,5 +22,3 @@ See the UI Kit in Figma
 * Sponsorship Paper Templates
 
 [See the UI Kit in Figma](https://www.figma.com/file/P1iVebSPuC1AWBybYfXUTdP3/WordCamp-Lodz-UI-kit?node-id=0%3A1)
-
-[logo]: https://raw.githubusercontent.com/wordcamplodz/wordcamplodz-graphics/master/github-banner.png "WordCamp Łódź Logo"
