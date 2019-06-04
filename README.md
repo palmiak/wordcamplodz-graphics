@@ -22,3 +22,6 @@ This is a set of graphics prepared for WordCamp Łódź.
 * Sponsorship Paper Templates
 
 [See the UI Kit in Figma](https://www.figma.com/file/P1iVebSPuC1AWBybYfXUTdP3/WordCamp-Lodz-UI-kit?node-id=0%3A1)
+
+## WordCamp Łódź Styleguide:
+ * [WordCamp Łódź 2019](https://wordcamplodz.github.io/wordcamplodz-styleguide/styleguide/)
